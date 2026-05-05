@@ -17,4 +17,4 @@ TinySTM32 is a small 30mmx30mm devboard that features a STM32F103T8U6. It has tw
 
 ## License
 
-This project is licensed under the CERN Open Hardware Licence Version 2 Weakly Reciprocal [(CERN OHL W)
+This project is licensed under the CERN Open Hardware Licence Version 2 Weakly Reciprocal [(CERN OHL W)](LICENSE.txt)
