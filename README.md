@@ -7,7 +7,7 @@ TinySTM32 is a small 30mmx30mm devboard that features a STM32F103T8U6. It has tw
 
 ## Hardware
 
-KiCanvas Link
+[KiCanvas Link](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FOutdatedcandy92%2FTinySTM32%2Ftree%2Fmain%2Fkicad)
 ### Schematic
 
 ![](attachments/kicad_KpWH4pg5r2.png)
