@@ -2,7 +2,8 @@
 
 TinySTM32 is a small 30mmx30mm devboard that features a STM32F103T8U6. It has two programmable buttons and LEDs on board, and 18 pins broken out.
 
-![](attachments/kicad_cESQcaCCMH.png)
+![](attachments/render.png)
+
 
 
 ## Hardware
@@ -13,8 +14,18 @@ TinySTM32 is a small 30mmx30mm devboard that features a STM32F103T8U6. It has tw
 ![](attachments/kicad_KpWH4pg5r2.png)
 
 ### PCB
+
 ![](attachments/kicad_zPVRF3mqvv.png)
 
+### 3D PCB
+
+![](attachments/kicad_cESQcaCCMH.png)
+
+### Case
+
+The case uses M2 screws to mount the PCB.
+
+![](attachments/Fusion360_3qfD5hO6pR.png)
 ## License
 
 This project is licensed under the CERN Open Hardware Licence Version 2 Weakly Reciprocal [(CERN OHL W)](LICENSE.txt)
